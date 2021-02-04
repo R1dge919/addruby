@@ -1,0 +1,10 @@
+/.eslintrc.json
+/.vscode
+/.vscodeignore
+/CHANGELOG.md
+/jsconfig.json
+/node_modules
+/package-lock.json
+/package.json
+/test
+/vsc-extension-quickstart.md
